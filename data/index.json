@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2022,
+      "color": "Silver",
+      "price": 25000
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "color": "Red",
+      "price": 35000
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2021,
+      "color": "Blue",
+      "price": 22000
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "year": 2022,
+      "color": "Black",
+      "price": 28000
+    },
+    {
+      "make": "BMW",
+      "model": "X5",
+      "year": 2024,
+      "color": "White",
+      "price": 50000
+    }
+  ]
+}
